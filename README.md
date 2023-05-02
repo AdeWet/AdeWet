@@ -1,5 +1,11 @@
-### Hi there 👋
+# Hi there 👋 My name is Adriaan
 
+## iOS Developer
+
+- I am currently working on a Food Diary app that helps people track their calorie and nutrient intake in day.
+
+## Skills
+- Swift
 <!--
 **AdeWet/AdeWet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
